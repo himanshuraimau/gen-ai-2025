@@ -11,6 +11,8 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 # Add more API keys as needed
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 
+GROQ_API_KEY = os.getenv('GROQ_API_KEY')
+
 def get_api_key(key_name):
     """
     Get a specific API key by name

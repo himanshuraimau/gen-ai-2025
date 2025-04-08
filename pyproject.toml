@@ -7,7 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.115.12",
     "ipykernel>=6.29.5",
-    "langchain>=0.3.23",
+    "langchain[google-vertexai,groq,openai]>=0.3.23",
     "openai>=1.71.0",
     "pydantic>=2.11.2",
     "python-dotenv>=1.1.0",

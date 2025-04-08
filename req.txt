@@ -1,0 +1,8 @@
+fastapi
+langchain
+openai
+pydantic
+transformers
+python-dotenv
+streamlit
+ipykernel

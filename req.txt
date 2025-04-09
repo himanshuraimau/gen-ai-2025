@@ -9,3 +9,4 @@ ipykernel
 langchain[openai]
 langchain[google-vertexai]
 langchain[groq]
+langgraph
